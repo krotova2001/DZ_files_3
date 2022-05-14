@@ -30,7 +30,7 @@ int main()
 		else
 		{
 			cout << "Can not write c:\\1\\enctypted.txt";
-		}
+		} 
 		Source.close(); // потом закрываем источник
 	}
 	else
